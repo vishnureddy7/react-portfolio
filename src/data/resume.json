@@ -257,11 +257,13 @@
         },
         {
           "icon": "flask",
+          "customIcon": true,
           "name": "Flask"
         },
         {
           "icon": "sqlite",
-          "name": "SQLite"
+          "name": "SQLite",
+          "customIcon": true
         }
       ]
     },
