@@ -1,0 +1,371 @@
+{
+  "basic_info": {
+    "name": "Guru Vishnu Vardhan Reddy",
+    "titles": [
+      "Full Stack Developer",
+      "Backend Developer"
+    ],
+    "social": [
+      {
+        "name": "Mobile",
+        "url": "tel:+918179315393",
+        "class": "fas fa-phone"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:dgvishnuvardhanreddy@gmail.com?subject=Mail from Portfolio site",
+        "class": "fas fa-envelope"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vishnureddy7",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/guruvishnu-desireddy/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "hackerrank",
+        "url": "https://www.hackerrank.com/vishnureddy7?hr_r=1",
+        "class": "fab fa-hackerrank"
+      }
+    ],
+    "image": "profilePic.jpg",
+    "description_header": "Hi",
+    "description": "👋 I'm Guru Vishnu. I have over 3 years of experience working in the Software Development field. Currently, I work as a Full Stack Engineer at Gnani Innovations, where I build products such as Dashboards and Chatbots etc.. involved in both frontend and backend development. I'm deeply passionate about creating products that help automate a lot of manual work.\n",
+    "section_name": {
+      "about": "About me",
+      "skills": "Skills",
+      "projects": "Projects",
+      "experience": "Experience"
+    }
+  },
+  "skills": {
+    "icons": [
+      [
+        {
+          "name": "C",
+          "icon": "c",
+          "level": "75"
+        },
+        {
+          "name": "C++",
+          "icon": "cpp",
+          "level": "85"
+        },
+        {
+          "name": "Java",
+          "icon": "java",
+          "level": "65"
+        },
+        {
+          "name": "Python 3",
+          "icon": "python",
+          "level": "90"
+        },
+        {
+          "name": "Erlang",
+          "icon": "erlang",
+          "level": "60"
+        },
+        {
+          "name": "Bash",
+          "icon": "bash",
+          "level": "60"
+        },
+        {
+          "name": "PhP",
+          "icon": "php",
+          "level": "60"
+        }
+      ],
+      [
+        {
+          "name": "HTML 5",
+          "icon": "html",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "icon": "css",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "javascript",
+          "level": "80"
+        },
+        {
+          "name": "Node.js",
+          "icon": "nodejs",
+          "level": "60",
+          "customIcon": true
+        }
+      ],
+      [
+        {
+          "name": "React",
+          "icon": "react",
+          "level": "60"
+        },
+        {
+          "name": "JQuery",
+          "icon": "jquery",
+          "level": "60"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "bootstrap",
+          "level": "60"
+        }
+      ],
+      [
+        {
+          "name": "Flask",
+          "icon": "flask",
+          "level": "60",
+          "customIcon": true
+        },
+        {
+          "name": "Pandas",
+          "icon": "pandas",
+          "level": "60"
+        },
+        {
+          "name": "FastAPI",
+          "icon": "fastapi",
+          "level": "60",
+          "customIcon": true
+        }
+      ],
+      [
+        {
+          "name": "MySQL",
+          "icon": "mysql",
+          "level": "60"
+        },
+        {
+          "name": "SQLite",
+          "icon": "sqlite",
+          "level": "60",
+          "customIcon": true
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "postgresql",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "mongodb",
+          "customIcon": true,
+          "level": "60"
+        },
+        {
+          "name": "Redis",
+          "icon": "redis",
+          "level": "60"
+        }
+      ],
+      [
+        {
+          "name": "Ubuntu",
+          "icon": "ubuntu",
+          "level": "60"
+        },
+        {
+          "name": "OpenSUSE",
+          "icon": "suse",
+          "level": "60",
+          "customIcon": true
+        },
+        {
+          "name": "CentOS",
+          "icon": "centos",
+          "level": "60"
+        },
+        {
+          "name": "Windows",
+          "icon": "windows",
+          "level": "60"
+        }
+      ],
+      [
+        {
+          "name": "RabbitMQ",
+          "icon": "rabbitmq",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "icon": "docker",
+          "level": "60"
+        },
+        {
+          "name": "Sentry",
+          "icon": "sentry",
+          "level": "60"
+        }
+      ]
+    ]
+  },
+  "projects": [
+    {
+      "title": "Dark Whatsapp Web",
+      "startDate": "2020",
+      "description": "Developed Chrome Extension for Whatsapp Web to enable/disable Dark Mode.",
+      "images": [
+        "images/portfolio/dark-whatsapp-web/pic1.jpg",
+        "images/portfolio/dark-whatsapp-web/pic2.jpg"
+      ],
+      "url": "https://github.com/vishnureddy7/dark-whatsapp-web-chrome",
+      "technologies": [
+        {
+          "icon": "html",
+          "name": "HTML"
+        },
+        {
+          "icon": "css",
+          "name": "CSS"
+        },
+        {
+          "icon": "javascript",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Tweet News Rank",
+      "startDate": "2019",
+      "description": "Identifying and Grading news using Social media factors:Stream real time data from Twitter, Analyse, Categorize and Rank the most popular topic being discussed on Twitter by visualizing the collected data in various charts.",
+      "images": [
+        "images/portfolio/tweet-news-rank/pic1.png",
+        "images/portfolio/tweet-news-rank/pic2.png",
+        "images/portfolio/tweet-news-rank/pic3.png"
+      ],
+      "url": "https://github.com/vishnureddy7/tweet-news-rank",
+      "technologies": [
+        {
+          "icon": "python",
+          "name": "Python"
+        },
+        {
+          "icon": "javascript",
+          "name": "JavaScript"
+        },
+        {
+          "icon": "flask",
+          "name": "Flask"
+        },
+        {
+          "icon": "sqlite",
+          "name": "SQLite"
+        }
+      ]
+    },
+    {
+      "title": "Kisan Samrakshana",
+      "startDate": "2017",
+      "description": "An Online Platform to connect Farmers with Vendors. It enables farmers to identify demand for their crop, and offers opportunities to get direct access to the global market by eliminating the long chain of middlemen.",
+      "images": [
+        "images/portfolio/kisan-samrakshana/pic1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "icon": "php",
+          "name": "PhP"
+        },
+        {
+          "icon": "mysql",
+          "name": "MySQL"
+        },
+        {
+          "icon": "javascript",
+          "name": "JavaScript"
+        },
+        {
+          "icon": "python",
+          "name": "Python"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Gnani.ai",
+      "title": "Full Stack Developer",
+      "years": "Jul 2020 - present",
+      "mainTech": [
+        "Backend",
+        "Frontend"
+      ],
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "Flask",
+        "React",
+        "HTML",
+        "CSS",
+        "Node.JS",
+        "Docker",
+        "Linux",
+        "Redis",
+        "RabbiMQ",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "icon": "fa-python"
+    },
+    {
+      "company": "Redbus",
+      "title": "Backend Developer",
+      "years": "Nov 2019 - Jul 2020",
+      "mainTech": [
+        "Backend"
+      ],
+      "technologies": [
+        "Erlang",
+        "MySQL",
+        "Clickhouse",
+        "RabbitMQ",
+        "Linux",
+        "Python"
+      ],
+      "icon": "fa-erlang"
+    },
+    {
+      "company": "Sonus Networks",
+      "title": "Software Engineer",
+      "years": "Aug 2018 - Nov 2019",
+      "mainTech": [
+        "Core"
+      ],
+      "technologies": [
+        "C",
+        "C++",
+        "SIP",
+        "SDP",
+        "GDB",
+        "Linux",
+        "Python"
+      ],
+      "icon": "fa-linux"
+    },
+    {
+      "company": "Yellow Messenger",
+      "title": "Software Development Intern",
+      "years": "Feb 2018 - Aug 2018",
+      "mainTech": [
+        "Backend"
+      ],
+      "technologies": [
+        "Node.Js",
+        "Python"
+      ],
+      "icon": "fa-node-js"
+    }
+  ]
+}
